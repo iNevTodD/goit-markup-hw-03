@@ -1,0 +1,30 @@
+.logo-header {
+  color: #2e2f42;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.33;
+  letter-spacing: 0.03em;
+  font-family: 'Raleway', sans-serif;
+}
+.logo-header span {
+  color: #4d5ae5;
+}
+.nav-list-item {
+  font-weight: 500;
+  color: #2e2f42;
+  line-height: 1.5;
+}
+.nav-list-item:hover,
+.nav-list-item:focus,
+.contacts-list-item:hover,
+.contacts-list-item:focus {
+  color: #404bbf;
+}
+.contacts {
+  font-style: normal;
+}
+.contacts-list-item {
+  font-weight: 400;
+  color: #434455;
+  line-height: 1.5;
+}

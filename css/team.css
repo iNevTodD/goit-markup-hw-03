@@ -1,0 +1,20 @@
+.team {
+  background-color: #f4f4fd;
+}
+.team-list-item {
+  background-color: #ffffff;
+}
+.team-list-item p {
+  color: #434455;
+  font-weight: 400;
+}
+.team-list-item p {
+  text-align: center;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+}
+.team-list-item h3{
+  text-align: center;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+}

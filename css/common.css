@@ -1,0 +1,29 @@
+body {
+  font-family: 'Roboto', sans-serif;
+  background-color: #ffffff;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  font-size: 16px;
+  color:#2e2f42;
+}
+.section-title{
+  color: #2e2f42;
+  font-weight: bold;
+  font-size: 36px;
+  line-height: 1.11;
+  letter-spacing: 0.02em;
+  text-align: center;
+}
+h3 {
+  color: #2e2f42;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+}
+ul {
+  list-style-type: none;
+}
+a{
+  text-decoration: none;
+}
