@@ -1,12 +1,17 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
 body {
   font-family: 'Roboto', sans-serif;
   background-color: #ffffff;
   line-height: 1.5;
   letter-spacing: 0.02em;
   font-size: 16px;
-  color:#2e2f42;
+  color: #2e2f42;
 }
-.section-title{
+.section-title {
   color: #2e2f42;
   font-weight: bold;
   font-size: 36px;
@@ -24,6 +29,11 @@ h3 {
 ul {
   list-style-type: none;
 }
-a{
+a {
   text-decoration: none;
+}
+.container {
+  padding: 0 15px;
+  max-width: 1158px;
+  margin: 0 auto;
 }

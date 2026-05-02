@@ -1,3 +1,17 @@
+.page-header{
+
+}
+.page-header .container {
+  display: flex;
+  align-items: center;
+  max-width: 1158px;
+  justify-content: space-between;
+}
+.page-nav {
+  display: flex;
+  gap: 40px;
+  align-items: center;
+}
 .logo-header {
   color: #2e2f42;
   font-weight: 700;
@@ -5,23 +19,31 @@
   line-height: 1.33;
   letter-spacing: 0.03em;
   font-family: 'Raleway', sans-serif;
+  justify-content: flex-start;
 }
 .logo-header span {
   color: #4d5ae5;
 }
-.nav-list-item {
+.page-nav-item {
   font-weight: 500;
   color: #2e2f42;
   line-height: 1.5;
+  padding: 24px 0;
 }
-.nav-list-item:hover,
-.nav-list-item:focus,
+.page-nav:hover,
+.page-nav-item:focus,
 .contacts-list-item:hover,
 .contacts-list-item:focus {
   color: #404bbf;
 }
 .contacts {
   font-style: normal;
+  margin-left: auto;
+}
+.contacts-list {
+  display: flex;
+  gap: 40px;
+  align-items: center;
 }
 .contacts-list-item {
   font-weight: 400;

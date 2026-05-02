@@ -1,3 +1,17 @@
+.features .container {
+  display: flex;
+  justify-content: center;
+}
+.features-title {
+  display: none;
+}
+.features-list {
+  display: flex;
+  gap: 24px;
+}
+.features-list-item {
+  gap: 8px;
+}
 .features-list-item p {
   color: #434455;
   font-weight: 400;
