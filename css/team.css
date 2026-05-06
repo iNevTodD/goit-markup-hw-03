@@ -10,6 +10,8 @@
 .team-list {
   display: flex;
   gap: 24px;
+  flex-direction: row;
+  justify-content: center;
 }
 .team-list-item {
   background-color: #ffffff;

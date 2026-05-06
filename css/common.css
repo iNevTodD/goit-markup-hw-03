@@ -19,6 +19,10 @@ body {
   letter-spacing: 0.02em;
   text-align: center;
 }
+img {
+  display: block;
+  max-width: 100%;
+}
 h3 {
   color: #2e2f42;
   font-weight: 500;
