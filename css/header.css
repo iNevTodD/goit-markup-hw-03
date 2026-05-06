@@ -1,16 +1,16 @@
-.page-header{
-
+.page-header {
+  border: 1px solid #e7e9fc;
 }
 .page-header .container {
   display: flex;
   align-items: center;
   max-width: 1158px;
-  justify-content: space-between;
 }
 .page-nav {
   display: flex;
   gap: 40px;
   align-items: center;
+  margin-right: 340px;
 }
 .logo-header {
   color: #2e2f42;
@@ -20,6 +20,7 @@
   letter-spacing: 0.03em;
   font-family: 'Raleway', sans-serif;
   justify-content: flex-start;
+  margin-right: 76px;
 }
 .logo-header span {
   color: #4d5ae5;
