@@ -10,7 +10,6 @@
   display: flex;
   gap: 40px;
   align-items: center;
-  margin-right: 76px;
 }
 .logo-header {
   color: #2e2f42;
@@ -21,6 +20,7 @@
   font-family: 'Raleway', sans-serif;
   justify-content: flex-start;
   margin-right: 76px;
+  padding: 24px 0px;
 }
 .logo-header span {
   color: #4d5ae5;
@@ -39,7 +39,7 @@
 }
 .contacts {
   font-style: normal;
-
+  margin-left: auto;
 }
 .contacts-list {
   display: flex;
@@ -50,4 +50,5 @@
   font-weight: 400;
   color: #434455;
   line-height: 1.5;
+  padding: 24px 0px;
 }

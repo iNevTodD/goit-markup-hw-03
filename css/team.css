@@ -17,6 +17,9 @@
 .team-card-text {
   padding: 32px 16px;
 }
+.team-card-text h3{
+  margin-bottom: 8px;
+}
 .team-list-item {
   background-color: #ffffff;
   border-radius: 0 0 4px 4px;
