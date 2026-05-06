@@ -1,5 +1,5 @@
 .page-header {
-  border: 1px solid #e7e9fc;
+  border-bottom: 1px solid #e7e9fc;
 }
 .page-header .container {
   display: flex;
@@ -10,7 +10,7 @@
   display: flex;
   gap: 40px;
   align-items: center;
-  margin-right: 340px;
+  margin-right: 76px;
 }
 .logo-header {
   color: #2e2f42;
@@ -39,7 +39,7 @@
 }
 .contacts {
   font-style: normal;
-  margin-left: auto;
+
 }
 .contacts-list {
   display: flex;

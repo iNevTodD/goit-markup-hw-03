@@ -1,16 +1,16 @@
 .features{
-  padding: 120px;
+  padding: 120px 0;
 }
 .features .container {
   display: flex;
   justify-content: center;
 }
-.sr-only {
-  display: none;
-}
 .features-list {
   display: flex;
   gap: 24px;
+}
+.features-list-item{
+  flex-basis: calc((100% - 72px) / 4);
 }
 .features-list-item h3{
   margin-bottom: 8px;

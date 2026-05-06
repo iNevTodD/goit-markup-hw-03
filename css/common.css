@@ -23,7 +23,16 @@ img {
   display: block;
   max-width: 100%;
 }
-h1, h2, h3, h4, h4, h5 ,h6{
+h1,
+h2,
+h3,
+h4,
+h4,
+h5,
+h6 {
+  margin: 0;
+}
+p {
   margin: 0;
 }
 h3 {
@@ -45,4 +54,7 @@ a {
   padding: 0 15px;
   max-width: 1158px;
   margin: 0 auto;
+}
+.sr-only {
+  color: white;
 }
